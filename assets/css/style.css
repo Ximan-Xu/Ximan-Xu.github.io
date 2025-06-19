@@ -1145,6 +1145,7 @@ main {
   overflow: hidden;
   box-shadow: var(--shadow-4);
   background: var(--light-card);
+  line-height: 0;
 }
 
 .gallery-item img {
